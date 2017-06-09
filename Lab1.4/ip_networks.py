@@ -19,5 +19,6 @@ while (i < 100):
 print (l)
 
 l1 = sorted(l, key=sortfunc)
+print (l1)
 for i in l1:
     print(i)
